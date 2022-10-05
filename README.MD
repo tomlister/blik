@@ -1,2 +1,2 @@
 # Blik
-## Quickly glance at your Canvas Planner
+Quickly glance at your Canvas Planner
